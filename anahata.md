@@ -1,3 +1,3 @@
-# Project Instructions: SabayLakbay
+# Anahata Project Notes
 
-This file contains project-specific system instructions for the **SabayLakbay** project.
+This file is for Anahata AI Assistant's notes regarding the 'SabayLakbay' project.
